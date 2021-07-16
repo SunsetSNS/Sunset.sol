@@ -8,7 +8,7 @@ pragma solidity 0.8.4;
 contract Sunset {
     string public name = "Sunset";
     string public symbol = "SNS";
-    uint256 public totalSupply = 1000000000000000000000000000000; // 
+    uint256 public totalSupply = 1000000000000; // 
     uint8 public decimals = 18;
     
     /**
